@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--
+_I am a mechatronics engineer and software developer specializing in data analysis. I experience in backend development, data analysis ,industrial automation,SCADA, telecommunications networks, control systems and cybersecurity ._
 **MaleBrochero/MaleBrochero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
