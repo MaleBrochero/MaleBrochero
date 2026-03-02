@@ -1,4 +1,10 @@
 ## Hi there 👋
-_I am a mechatronics engineer and software developer specializing in data analysis. I experience in backend development, data analysis ,industrial automation,SCADA, telecommunications networks, control systems and cybersecurity ._
+I’m a postgraduate student in Data Science and a Mechatronic Engineer with experience in industrial automation, telecommunications, electromechanical maintenance, and advanced control systems. 
+
+My skills include data analysis, statistical modeling, SCADA, telemetry, PLCs, and industrial networks. 
+
+I am interested in predictive modeling, cybersecurity, cloud computing, and sustainable engineering solutions. I like solving complex problems . As hobbies, I enjoy music, sports, and outdoor activities. 
+
+Random facts: 
 - 😄 Pronouns: Majo or Male
 - **MaleBrochero/MaleBrochero** 
